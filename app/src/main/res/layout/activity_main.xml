@@ -300,11 +300,11 @@
         android:layout_height="21dp"
         android:background="#ECEAE2"
         android:text="戻る"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
         android:textAlignment="center"
         android:textColor="#000000"
-        android:textSize="30sp"/>
+        android:textSize="14sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
